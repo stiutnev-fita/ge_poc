@@ -18,3 +18,8 @@
 - `poetry add psycopg2-binary` # add postgresql support
 - `poetry shell`
 - `great_expectations init`
+- `great_expectations datasource new`
+- `great_expectations suite scaffold postgresql.warning` # create a new suite
+- `great_expectations suite edit postgresql.warning`
+- `great_expectations checkpoint new my_checkpoint postgresql.warning`
+- `great_expectations checkpoint run my_checkpoint` # run checkpoint
