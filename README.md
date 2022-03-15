@@ -1,7 +1,9 @@
 # Great expectation proof of concept
 
 ## requirements :mag_right:
-[Great expectation](https://github.com/great-expectations/great_expectations)
+- python
+- [poetry](https://python-poetry.org/docs/#osx--linux--bashonwindows-install-instructions)
+- [Great expectation](https://github.com/great-expectations/great_expectations)
 
 ## roadmap :pushpin:
 - [ ] init ge project
