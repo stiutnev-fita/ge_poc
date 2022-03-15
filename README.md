@@ -14,3 +14,7 @@
 ## worklog
 - `poetry init`
 - `poetry add great-expectations`
+- `poetry add sqlalchemy`
+- `poetry add psycopg2-binary` # add postgresql support
+- `poetry shell`
+- `great_expectations init`
