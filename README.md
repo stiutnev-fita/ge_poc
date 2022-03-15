@@ -9,3 +9,8 @@
 - [ ] init ge project
 - [ ] dockerise the project
 - [ ] run project against staging data source
+
+
+## worklog
+- `poetry init`
+- `poetry add great-expectations`
