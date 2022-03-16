@@ -23,5 +23,9 @@
 - `great_expectations datasource new`
 - `great_expectations suite new` # create a new suite
 - `great_expectations suite edit postgresql.warning`
-- `great_expectations checkpoint new`
+- `great_expectations checkpoint new my_checkpoint postgresql.warning`
 - `great_expectations checkpoint run my_checkpoint` # run checkpoint
+
+
+## links
+- (expectations gallery)[https://greatexpectations.io/expectations/]
