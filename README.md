@@ -6,20 +6,21 @@
 - [Great expectation](https://github.com/great-expectations/great_expectations)
 
 ## roadmap :pushpin:
-- [ ] init ge project
+- [X] init ge project
 - [ ] dockerise the project
 - [ ] run project against staging data source
 
 
 ## worklog
+### init python project project
 - `poetry init`
+- `poetry add black`
 - `poetry add great-expectations`
 - `poetry add sqlalchemy`
 - `poetry add psycopg2-binary` # add postgresql support
 - `poetry shell`
+### init great expectations
 - `great_expectations init`
-- `docker-compose up`
-- `docker inspect ge_poc-postgres-1 | grep IPAddress`
 - `great_expectations datasource new`
 - `great_expectations suite new` # create a new suite
 - `great_expectations suite edit postgresql.warning`
