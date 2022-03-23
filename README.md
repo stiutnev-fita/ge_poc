@@ -30,6 +30,6 @@
 
 
 ## links
-- (core concepts of great expectations)[https://legacy.docs.greatexpectations.io/en/latest/reference/core_concepts.html]
-- (expectations gallery)[https://greatexpectations.io/expectations/]
-- (custom expectation)[https://docs.greatexpectations.io/docs/guides/expectations/creating_custom_expectations/how_to_create_custom_column_aggregate_expectations/]
+- [core concepts of great expectations](https://legacy.docs.greatexpectations.io/en/latest/reference/core_concepts.html)
+- [expectations gallery](https://greatexpectations.io/expectations/)
+- [custom expectation](https://docs.greatexpectations.io/docs/guides/expectations/creating_custom_expectations/how_to_create_custom_column_aggregate_expectations/)
