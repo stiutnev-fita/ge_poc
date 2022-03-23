@@ -22,11 +22,14 @@
 ### init great expectations
 - `great_expectations init`
 - `great_expectations datasource new`
-- `great_expectations suite new` # create a new suite
+- `great_expectations suite new`
 - `great_expectations suite edit postgresql.warning`
 - `great_expectations checkpoint new my_checkpoint postgresql.warning`
 - `great_expectations checkpoint run my_checkpoint` # run checkpoint
+- `reat_expectations checkpoint script my_checkpoint` # generate python script
 
 
 ## links
+- (core concepts of great expectations)[https://legacy.docs.greatexpectations.io/en/latest/reference/core_concepts.html]
 - (expectations gallery)[https://greatexpectations.io/expectations/]
+- (custom expectation)[https://docs.greatexpectations.io/docs/guides/expectations/creating_custom_expectations/how_to_create_custom_column_aggregate_expectations/]
